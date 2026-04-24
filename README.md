@@ -1,7 +1,11 @@
-[Instagram智能获客系统_README.md](https://github.com/user-attachments/files/27064059/Instagram._README.md)
+
 # Instagram Intelligent Lead Generation System
 
-> 中文 / English / Русский
+## Language / 语言 / Язык
+
+- [中文介绍](#中文介绍)
+- [English Introduction](#english-introduction)
+- [Русское описание](#русское-описание)
 
 ---
 
